@@ -1,0 +1,30 @@
+body{
+    font-family:font-family: 'Poppins', sans-serif;
+    margin:0;
+}
+h1{
+    font-size:50px;
+}
+.work{
+    display:flex;
+    background-image:url(images/top-banner.png);
+    background-repeat:no-repeat;
+}
+.work1{
+    color:orange;
+}
+.work2{
+    width:50%;
+    padding-left:10%;
+}
+.work img{
+    width:70%;
+}
+.work3{
+    text-decoration:none;
+    background-image:linear-gradient(orange,tomato,red);
+    padding:10px 40px;
+    border-radius:5px;
+    color:cyan;
+    font-weight:bolder;
+}
